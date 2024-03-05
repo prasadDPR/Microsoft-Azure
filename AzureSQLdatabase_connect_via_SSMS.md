@@ -6,7 +6,7 @@ Connect Azure SQL Database using SQL Server Management Studio (SSMS) involves a 
   
 2. **SQL Server Management Studio (SSMS):** Have SSMS installed on your local machine. You can download it from the Microsoft website.
 
-![SQLdatabase](https://github.com/prasadDPR/AzureSQLdatabase_connect_via_SSMS/assets/121819069/5b4b9baf-0ab6-4ffe-8af2-e9cf3f890a9f)
+![SQLdatabase](https://github.com/prasadDPR/My-Cloud-Projects/assets/121819069/196278f9-1c4f-49ac-b0fa-d87189795b9c)
 
 ### Steps to Connect:
 
@@ -27,12 +27,12 @@ Connect Azure SQL Database using SQL Server Management Studio (SSMS) involves a 
      - **Login:** Enter your username for SQL Server Authentication or select the Azure AD account if using Azure AD authentication.
      - **Password:** Enter your password if using SQL Server Authentication.
        
-![SSMS Login](https://github.com/prasadDPR/AzureSQLdatabase_connect_via_SSMS/assets/121819069/bbeba002-2456-4bbf-9a92-81fde6ad52e9)
+![SSMS Login](https://github.com/prasadDPR/My-Cloud-Projects/assets/121819069/ea3b9d03-c4af-4d2a-abc4-0e478975db77)
 
 4. **Establish Connection:**
    - Click "Connect" to establish a connection between SSMS and your Azure SQL Database.
   
-![SSMS](https://github.com/prasadDPR/AzureSQLdatabase_connect_via_SSMS/assets/121819069/fcda1b46-46aa-4112-ba28-3be4fa8b1abe)
+![SSMS](https://github.com/prasadDPR/My-Cloud-Projects/assets/121819069/51837949-3058-4fbe-9621-b5513029aa26)
 
 ### Troubleshooting Tips:
 
