@@ -1,4 +1,4 @@
-# My-Cloud-Projects
+# My-Azure-Projects
 Welcome to the Cloud Projects Repository! This repository hosts a collection of various cloud-related projects designed to explore different aspects of cloud computing technologies. From infrastructure as code to serverless architectures, each project within this repository demonstrates practical implementations and best practices in the cloud computing domain.
 Projects Included:
 1. Azure Hyper-V Server Migration
