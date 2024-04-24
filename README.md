@@ -9,8 +9,6 @@ Description: An Azure Server Migration project involves transferring on-premises
 
 Description: SSMS (SQL Server Management Studio) project for efficient management of Azure SQL databases, offering a user-friendly interface to perform tasks such as querying, monitoring, and optimizing database performance in the Azure cloud environment.
 
-3. AWS Two Tier Architecture Terraform code
 
-Description: This Terraform project implements a two-tier architecture on AWS, comprising a web application tier and a database tier. It automates the provisioning of resources such as EC2 instances for the web servers, RDS for the database, and manages their configuration, networking, and security settings.
 
   
