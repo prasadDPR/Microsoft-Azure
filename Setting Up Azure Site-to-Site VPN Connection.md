@@ -3,6 +3,9 @@
 **Introduction:**
 Azure Site-to-Site VPN allows you to securely connect your on-premises network to your Azure Virtual Network over the internet. This documentation provides step-by-step instructions for configuring a Site-to-Site VPN connection in Azure.
 
+**Architecture Diagram:**
+![Azure Site to Site Architecture](https://github.com/prasadDPR/Microsoft-Azure/assets/121819069/6c0e4627-3e88-40ff-bba3-f4f13efc229e)
+
 **Prerequisites:**
 - An active Azure subscription.
 - Administrative access to Azure Portal.
