@@ -9,6 +9,9 @@ Description: An Azure Server Migration project involves transferring on-premises
 
 Description: SSMS (SQL Server Management Studio) project for efficient management of Azure SQL databases, offering a user-friendly interface to perform tasks such as querying, monitoring, and optimizing database performance in the Azure cloud environment.
 
+3. Setting up Azure site to site VPN Connection
+
+Description: Setting up Azure Site-to-Site VPN involves creating a secure link between on-premises networks and Azure Virtual Networks for seamless data transfer and resource access.
 
 
   
